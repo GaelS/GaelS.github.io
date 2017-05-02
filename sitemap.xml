@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://apprendre-react.fr/about/index.html</loc>
+    
+    <lastmod>2017-05-02T13:29:32.004Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://apprendre-react.fr/tutorial/debutant/jsx/</loc>
+    
+    <lastmod>2017-05-02T13:15:38.370Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://apprendre-react.fr/tutorial/library/flux/redux-from-scratch/</loc>
+    
+    <lastmod>2017-05-02T13:15:23.866Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://apprendre-react.fr/tutorial/debutant/les-composants/</loc>
+    
+    <lastmod>2017-05-02T13:11:19.501Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://apprendre-react.fr/tutorial/debutant/render-et-virtual-dom/</loc>
+    
+    <lastmod>2017-05-02T13:06:30.004Z</lastmod>
+    
+  </url>
+  
+</urlset>
