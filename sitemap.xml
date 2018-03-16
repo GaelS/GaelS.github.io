@@ -2,9 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://apprendre-react.fr/conseil/coder-et-rester-motiver/</loc>
+    
+    <lastmod>2018-03-16T17:31:59.934Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://apprendre-react.fr/tutorial/library/React-Redux-from-scratch/</loc>
     
     <lastmod>2017-06-08T05:48:40.037Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://apprendre-react.fr/tutorial/debutant/jsx/</loc>
+    
+    <lastmod>2017-06-08T05:28:01.793Z</lastmod>
     
   </url>
   
@@ -16,30 +30,23 @@
   </url>
   
   <url>
-    <loc>http://apprendre-react.fr/tutorial/debutant/jsx/</loc>
-    
-    <lastmod>2017-05-02T13:15:38.370Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://apprendre-react.fr/tutorial/library/flux/redux-from-scratch/</loc>
     
-    <lastmod>2017-05-02T13:15:23.866Z</lastmod>
+    <lastmod>2017-05-02T13:15:23.867Z</lastmod>
     
   </url>
   
   <url>
     <loc>http://apprendre-react.fr/tutorial/debutant/les-composants/</loc>
     
-    <lastmod>2017-05-02T13:11:19.501Z</lastmod>
+    <lastmod>2017-05-02T13:11:19.502Z</lastmod>
     
   </url>
   
   <url>
     <loc>http://apprendre-react.fr/tutorial/debutant/render-et-virtual-dom/</loc>
     
-    <lastmod>2017-05-02T13:06:30.004Z</lastmod>
+    <lastmod>2017-05-02T13:06:30.005Z</lastmod>
     
   </url>
   
