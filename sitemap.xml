@@ -2,9 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://apprendre-react.fr/conseil/terminer-ses-projets-perso/</loc>
+    <loc>http://apprendre-react.fr/tutorial/library/state/Supprimer-Redux-en-utilisant-l-url-de-votre-application/</loc>
     
-    <lastmod>2018-03-16T17:55:40.302Z</lastmod>
+    <lastmod>2018-05-12T08:24:40.866Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://apprendre-react.fr/uncategorized/terminer-ses-projets-perso/</loc>
+    
+    <lastmod>2018-05-09T18:00:14.705Z</lastmod>
     
   </url>
   
