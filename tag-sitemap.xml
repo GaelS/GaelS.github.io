@@ -44,13 +44,6 @@
     </url>
 
     <url>
-        <loc>http://apprendre-react.fr/tags/redux/</loc>
-        <lastmod>2017-06-08T05:48:40.037Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>http://apprendre-react.fr/tags/react-redux/</loc>
         <lastmod>2017-06-08T05:48:40.037Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -58,22 +51,64 @@
     </url>
 
     <url>
-        <loc>http://apprendre-react.fr/tags/dev-perso/</loc>
-        <lastmod>2018-03-16T17:53:59.070Z</lastmod>
+        <loc>http://apprendre-react.fr/tags/redux/</loc>
+        <lastmod>2018-05-12T08:24:40.866Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://apprendre-react.fr/tags/react/</loc>
+        <lastmod>2018-05-12T08:24:40.866Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://apprendre-react.fr/tags/state/</loc>
+        <lastmod>2018-05-12T08:24:40.866Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://apprendre-react.fr/tags/management/</loc>
+        <lastmod>2018-05-12T08:24:40.866Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://apprendre-react.fr/tags/react-router/</loc>
+        <lastmod>2018-05-12T08:24:40.866Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://apprendre-react.fr/tags/devevelopement/</loc>
+        <lastmod>2018-05-12T08:32:19.404Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://apprendre-react.fr/tags/perso/</loc>
+        <lastmod>2018-05-12T08:32:19.404Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>http://apprendre-react.fr/tags/motivation/</loc>
-        <lastmod>2018-03-16T17:53:59.070Z</lastmod>
+        <lastmod>2018-05-12T08:32:19.404Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>http://apprendre-react.fr/tags/conseils/</loc>
-        <lastmod>2018-03-16T17:53:59.070Z</lastmod>
+        <lastmod>2018-05-12T08:32:19.404Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
